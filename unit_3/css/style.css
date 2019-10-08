@@ -1,0 +1,67 @@
+body {
+	font-family: "Helvetic-Neue", sans-serif;
+	background-color: ##F2F2F2;
+}
+
+img {
+	size: contain;
+	width: 100%;
+}
+
+p {
+	font-family: "Helvetic-Neue", sans-serif;
+	color: #565659;
+}
+
+#article {
+	width: 30%;
+	font-weight: lighter;
+
+}
+
+#bottom {
+	width: 50%;
+	font-weight: lighter;
+}
+
+h1 {
+	text-align: center;
+	color: #D94141;
+}
+
+#slogan {
+	font-style: italic;
+	text-align: center;
+	color: #D99191;
+	font-weight: lighter;
+	font-size: 25px;
+}
+
+h2 {
+	font-size; 25px;
+	color: #D99191;
+	font-weight: lighter;
+}
+
+ul {
+	font-weight: lighter;
+	color: #565659;
+}
+
+h4 {
+	color: #D94141;
+}
+
+#contact {
+	color: #ffffff;
+	text-align: center;
+	display: block;
+	background-color: #D94141;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration: none;
+	height: 30px;
+	padding-top: 10px;
+
+}

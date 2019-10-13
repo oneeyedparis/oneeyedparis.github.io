@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
+
+
+body {
+	font-family: Montserrat, sans-serif;
+	background-color: ##F2F2F2;
+	margin: 50px;
+}
+
+h1 {
+	font-family: Sacramento, cursive;
+	font-size: 50px;
+	text-align: center;
+	color: #D94141;
+	font-weight: lighter;
+}
+
+img {
+	size: contain;
+	width: 100%;
+	margin: 0px;
+}
+
+p {
+	color: #565659;
+	line-height: 150%;
+	font-size: 14px;
+}
+
+#article {
+	width: 30%;
+	font-weight: lighter;
+
+}
+
+#bottom {
+	width: 50%;
+	font-weight: lighter;
+}
+
+
+#slogan {
+	text-align: center;
+	color: #D99191;
+	font-weight: lighter;
+	font-size: 25px;
+}
+
+h2 {
+	font-size; 25px;
+	color: #D99191;
+	font-weight: lighter;
+	font-family: sacramento, cursive;
+	font-size: 40px;
+}
+
+ul {
+	font-weight: lighter;
+	color: #565659;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+h4 {
+	color: #D94141;
+	font-weight: bolder;
+
+}
+
+#contact {
+	color: #ffffff;
+	text-align: center;
+	display: block;
+	background-color: #D94141;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration: none;
+	height: 30px;
+	padding-top: 10px;
+
+}

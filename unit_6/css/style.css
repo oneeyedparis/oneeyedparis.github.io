@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
+
+
+body {
+	font-family: Montserrat, sans-serif;
+	background-color: ##F2F2F2;
+	margin: 50px;
+}
+
+h1 {
+	font-family: Sacramento, cursive;
+	font-size: 50px;
+	text-align: center;
+	color: #D94141;
+	font-weight: lighter;
+}
+
+img {
+	size: contain;
+	width: 100%;
+	margin: 0px;
+}
+
+p {
+	color: #565659;
+	line-height: 150%;
+	font-size: 14px;
+}
+
+#article {
+	font-weight: lighter;
+
+}
+
+
+#bottom {
+	font-weight: lighter;
+}
+
+
+#slogan {
+	text-align: center;
+	color: #D99191;
+	font-weight: lighter;
+	font-size: 25px;
+}
+
+h2 {
+	font-size; 25px;
+	color: #D99191;
+	font-weight: lighter;
+	font-family: sacramento, cursive;
+	font-size: 40px;
+}
+
+ul {
+	font-weight: lighter;
+	color: #565659;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+h4 {
+	color: #D94141;
+	font-weight: bolder;
+
+}
+
+li {
+	list-style-type: none;
+}
+
+#contact {
+	color: #ffffff;
+	text-align: center;
+	display: block;
+	background-color: #D94141;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration: none;
+	height: 30px;
+	padding-top: 10px;
+
+}
+
+
+
+#bottom_column {
+    margin: auto;
+ 	width: 100%;
+ 	
+}
+
+#left {
+    padding: 20px;
+    float: left;
+    width: 30%;
+    padding-left: 17%;
+    border: black;
+  
+  }
+
+#right {
+    padding: 20px;
+    float: right;
+    width: 30%;
+    padding-right: 17%;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+#two_column {
+    margin: auto;
+ 	
+ 	
+}
+
+
+#asideleft {
+    float: left;   
+    width: 35%;
+    padding-top: 7%;
+
+   
+    
+}
+
+#asideright {
+    float: right;
+    width: 60%;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+}
+
+footer {
+	background-color: #D99191;
+	height: 30px;
+}
+
+#lower {
+	text-align: center;
+	color: #D99191;
+	padding-bottom: 10px;
+
+}
+
+#lowernav {
+	color: #ffffff;
+	background-color: #D99191;
+	text-align: right;
+	padding-right: 5%;
+	padding-top: 1%;
+	padding-bottom: 1.5%;
+
+}
+
+
+
+
+
+
+
